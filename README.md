@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to PowerShell 👋</h1>
 
-![home](./resources/Logo.png)
+![home](./resources/Logo.jpg)
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-LaunchBase-blue.svg?cacheSeconds=2592000" />
   <a href="Teste" target="_blank">
@@ -19,7 +19,7 @@
   <a href="#-license">License</a>
 </p>
 
-> Here gonna be update some Script using Bash
+> Here gonna be update some Scripts using PowerShell
 ## How to use
 
 Choose a project and click, you will be redirect to the proper repository folder, there you will find another README explaining how to use the project and test on your Computer.
