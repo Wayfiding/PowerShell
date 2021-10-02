@@ -18,7 +18,7 @@
 <div>
 Línguas:
 
-[English :usa:](README.md)
+[English :us:](README.md)
 
 </div>
 </div>
