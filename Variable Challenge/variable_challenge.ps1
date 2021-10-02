@@ -1,6 +1,6 @@
 #Read User Input
-$first_name = Read-Host -Prompt 'What your First name' 
-$last_name = Read-Host -Prompt 'What your Last name' 
+$first_name = Read-Host -Prompt 'What your First name ' 
+$last_name = Read-Host -Prompt 'What your Last name ' 
 
 # Get today date with proper formatting
 $today_date = get-date -Format "ddmmyy-hhmmss"
